@@ -31,9 +31,3 @@ OUTPUT:
 
 Four output images using histogram equalization are shown for four principal components PC1, PC2, PC3 and PC4.
 
-
-Submitted by- A. Ocean Seemona
-M.tech (2nd sem) IS
-ML Lab Assignment- 6
-Email- 220CS2265@nitrkl.ac.in
-Rollno- 220CS2265
